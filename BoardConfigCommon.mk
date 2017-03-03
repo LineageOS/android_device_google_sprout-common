@@ -67,7 +67,7 @@ WIFI_DRIVER_FW_PATH_STA:=P2P
 # Enable Minikin text layout engine (will be the default soon)
 USE_MINIKIN := true
 
-MALLOC_IMPL := dlmalloc
+MALLOC_SVELTE := true
 DEVICE_RESOLUTION := 480x854
 
 
